@@ -2,10 +2,10 @@ main()
 {
 add()
 {
-printf("Addition");
+print("Addition");
 }
 sub()
 {
-printf("Subtraction");
+print("Subtraction");
 }
 }
