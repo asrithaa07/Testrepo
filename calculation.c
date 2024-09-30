@@ -1,12 +1,12 @@
 main()
 {
-add();
+add()
 {
   printf("Addition");
 }
-sub();
+sub()
 {
   printf("substraction");
 }
-mul();
+mul()
 }
