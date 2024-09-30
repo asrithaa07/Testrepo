@@ -1,6 +1,11 @@
 main()
 {
-  printf("Addition");
-  printf("substraction");
-
+add()
+{
+printf("Addition");
+}
+sub()
+{
+printf("Subtraction");
+}
 }
