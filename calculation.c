@@ -1,8 +1,12 @@
 main()
 {
-add();
+add()
 {
   printf("Addition");
 sub();
-mul();
+mul()
+{
+  printf("multiplication");
+}
+  
 }
