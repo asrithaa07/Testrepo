@@ -3,6 +3,10 @@ main()
 add();
 {
   printf("Addition");
+}
 sub();
+{
+  printf("substraction");
+}
 mul();
 }
