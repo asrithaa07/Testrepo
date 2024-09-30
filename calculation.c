@@ -2,11 +2,11 @@ main()
 {
 add()
 {
-  printf("Addition");
+  print("Addition");
 sub()
 mul()
 {
-  printf("multiplication");
+  print("multiplication");
 }
   
 }
