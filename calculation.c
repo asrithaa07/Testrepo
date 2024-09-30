@@ -3,7 +3,7 @@ main()
 add()
 {
   printf("Addition");
-sub();
+sub()
 mul()
 {
   printf("multiplication");
